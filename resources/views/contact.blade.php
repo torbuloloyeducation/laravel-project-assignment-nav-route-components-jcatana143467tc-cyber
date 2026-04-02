@@ -1,9 +1,4 @@
-<x-layout><br><br><br><br>
-    <h1>Contact</h1>
-
-    <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/contact">Contact</a>
-    </nav>
+<x-layout>
+    <h1>Contact Page</h1>
+    <p>This is the contact page of the Laravel Activity 1 project.</p>
 </x-layout>
